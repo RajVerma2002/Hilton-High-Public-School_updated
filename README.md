@@ -1,2 +1,2 @@
 # SCHOOL WEBSITE
-College website made using HTML,CSS and JS!
+SCHOOL website made using HTML,CSS ,JS , PHP ,SQL!
